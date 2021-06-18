@@ -1,9 +1,8 @@
 # counselor
 [counselor] 직업 가치관 검사 웹서비스
 
+### install node, npm (macOS)
 ```
-#install node, npm (macOS)
-
 brew update
 
 brew upgrade node
@@ -11,6 +10,7 @@ brew upgrade node
 npm install -g npm
 ```
 
+### 패키지 설치 및 시작
 ```
 npm isntall
 ```
@@ -19,7 +19,8 @@ npm start
 ```
 
 
-- components
+
+### components
 
 1) 유저 페이지 : User.js
 
